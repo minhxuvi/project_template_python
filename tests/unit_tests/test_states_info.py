@@ -1,9 +1,9 @@
-"""Tests for `python_project_template.states_info`."""
+"""Tests for `demo.states_info`."""
 
 
 import pytest
 
-from python_project_template.states_info import (
+from demo.states_info import (
     is_city_capitol_of_state,
     slow_add,
 )

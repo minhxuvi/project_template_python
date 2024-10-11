@@ -7,7 +7,7 @@ pip install python-project-template
 ```
 
 ```python
-from python_project_template import ...
+from demo import ...
 ```
 
 ## Contributing
